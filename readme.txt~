@@ -1,0 +1,37 @@
+=== MyBook ===
+Contributors: webarthur
+Tags: book, writting
+Requires at least: 3.0
+Tested up to: 3.3.1
+Stable tag: 0.9.3
+License: GPLv2 or later
+
+Using WordPress as a Book-Writing Platform.
+
+== Description ==
+
+Create chapters, sections, edit your own book.
+
+Next version:
+
+*   Export Book as HTML
+*   Book settings (margin, fonts, etc)
+*   Multiple books
+*   Multiple editors/authors
+*	Export book formats
+
+== Installation ==
+
+Upload the MyBook plugin to your blog, activate it, then click on the menu.
+
+== Screenshots ==
+
+1. screenshot-1.png 
+
+== Changelog ==
+
+= 0.9.3 = 
+* Added a remove link for each section
+* Added edit button for author box
+* Fixed a bug when the chapters didn't have a section
+
